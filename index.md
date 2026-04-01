@@ -30,7 +30,7 @@ Link to header: [header](#heading)
 
 first
 - second
-  -third
+  - third
 
 
 - [x] finished doing lab 1
